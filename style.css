@@ -1,0 +1,310 @@
+body{
+    height: 3950px;
+    
+}
+.logo{
+    position: absolute;
+    top: 2%;
+    left: 2%;
+}
+.TextA1{
+  position: absolute;
+  top: 40%;
+  left: 5%;
+  font-weight: bold;
+  color: white;
+  font-size: 80px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.TextA2{
+    position: absolute;
+  top: 53%;
+  left: 5%;
+  font-weight: bold;
+  color: white;
+  font-size: 80px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.TextA3{
+    position: absolute;
+    top: 80%;
+    left: 5%;
+    color: rgb(182, 182, 182);
+    font-size: 30px;
+}
+.Profile{
+  display: inline-block;
+  width: 500px;
+  font-size: 70px;
+  position: absolute;
+  top: 130%;
+  left: 60%;
+  color: white;
+  font-weight: bold;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.ProfileText{
+  display: inline-block;
+  width: 500px;
+  font-size: 20px;
+  position: absolute;
+  top: 160%;
+  left: 60%;
+  color: whitesmoke;
+ font-weight: lighter;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(160, 160, 160);
+}
+.ourService{
+   position: absolute;
+   top: 250%;
+   left: 5%;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color: white;
+   font-weight: bold;
+   font-size: 70px;
+}
+
+
+
+
+
+.No1{
+ position: absolute;
+ left: 50%;
+ top: 270%;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ color: rgb(190, 190, 190);
+ font-weight: bold;
+ font-size: 40px;
+}
+.No2{
+  position: absolute;
+  left: 50%;
+  top: 290%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(190, 190, 190);
+  font-weight: bold;
+  font-size: 40px;
+}
+.No3{
+  position: absolute;
+  left: 50%;
+  top: 310%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(190, 190, 190);
+  font-weight: bold;
+  font-size: 40px;
+}
+.text1{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: white;
+  font-weight: bold;
+  font-size: 35px;
+  position: absolute;
+  top: 271%;
+  left: 55%;
+}
+.text2{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: white;
+  font-weight: bold;
+  font-size: 35px;
+  position: absolute;
+  top: 291%;
+  left: 55%;
+}
+.text3{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: white;
+  font-weight: bold;
+  font-size: 35px;
+  position: absolute;
+  top: 311%;
+  left: 55%;
+}
+.textB1{
+  color: rgb(190, 190, 190);
+  position: absolute;
+  top: 280%;
+  right: 15%;
+ 
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+   font-weight: bold;
+   font-size: 18px;
+}
+.textB2{
+  color: rgb(190, 190, 190);
+  position: absolute;
+  top: 300%;
+  right: 15%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+   font-weight: bold;
+   font-size: 18px;
+}
+.textB3{
+  color: rgb(190, 190, 190);
+  position: absolute;
+  top: 320%;
+  right: 15%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+   font-weight: bold;
+   font-size: 18px;
+}
+.textC1{
+  position: absolute;
+  top:402%;
+  left: 13%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+  font-size: 60px;
+  text-align: center;
+  color: white;
+}
+.textC2{
+  position: absolute;
+  top:412%;
+  left: 35%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+  font-size: 60px;
+  text-align: center;
+  color: white;
+}
+.textC3{
+  position: absolute;
+  top:430%;
+  left: 36%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+  color: rgb(165, 165, 165);
+}
+.lastText{
+  position: absolute;
+  top: 522%;
+  left:4%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+  font-size: 60px;
+  color: white;
+}
+.YtChannel{
+  position: absolute;
+  top: 550%;
+  left:64%;
+  font-size: 24px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(165, 165, 165);
+}
+.Ytlink{
+  position: absolute;
+  top: 557%;
+  left:64%;
+  font-size: 15px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: white;
+}
+.PhoneN{
+  position: absolute;
+  top: 567%;
+  left:64%;
+  font-size: 24px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(165, 165, 165);
+}
+.PhoneNumber{
+  position: absolute;
+  top: 574%;
+  left:64%;
+  font-size: 15px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: white;
+}
+.email{
+  position: absolute;
+  top: 584%;
+  left:64%;
+  font-size: 24px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(165, 165, 165);
+}
+.emailAdress{
+  position: absolute;
+  top: 591%;
+  left:64%;
+  font-size: 15px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: white;
+}
+.TikTok{
+  position: absolute;
+  top: 606%;
+ left: 95%;
+  
+}
+.Instagram{
+  position: absolute;
+  top: 607%;
+ left: 91%;
+}
+.Facebook{
+  position: absolute;
+  top: 606%;
+ left: 87%;
+}
+.X{
+  position: absolute;
+  top: 607%;
+ left: 84%;
+}
+.popup-button{
+  height: 80px;
+  width: 180px;
+  background-color:  rgb(165, 165, 165);
+  position: absolute;
+  top: 200%;
+  left: 60%;
+  border: none;
+  
+  color: white;
+  font-size: 20px;
+}
+.popup-button:hover{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: rgb(240, 97, 121);
+  font-weight: bold;
+  font: size 22px;
+}
+.popup{
+  display: none;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  background-color: black;
+  height: 80%;
+  width: 80%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 3);
+  text-align: center;
+  
+}
+.close-button{
+    color: white;
+    background-color: rgb(174, 255, 53);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    border: none;
+    position: absolute;
+    top: 80%;
+    left: 50%;
+}
+.MoreText{
+  color: whitesmoke;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+}
